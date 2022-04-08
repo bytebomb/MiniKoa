@@ -22,4 +22,6 @@ server.listen(3000, () => {
 - koa-bodyparser 用于解析post请求体
 - koa-router 路由分配
 - koa2-cors 解决跨域
-- jsonwebtoken 登录令牌和权限管理
+- koa-jwt 登录令牌
+- jsonwebtoken 权限管理
+- nodemailer 发送邮件
