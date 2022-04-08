@@ -17,4 +17,9 @@ server.listen(3000, () => {
 - next用来调用下一个中间件，这就是中间件的奥秘
 - 中间件需要使用async和await来实现异步操作
 
-
+4. koa开发常用的中间件
+- koa-json 用于给前端返回json对象
+- koa-bodyparser 用于解析post请求体
+- koa-router 路由分配
+- koa2-cors 解决跨域
+- jsonwebtoken 登录令牌和权限管理
