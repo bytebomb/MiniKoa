@@ -1,0 +1,20 @@
+{
+  "name": "minikoa",
+  "version": "1.0.0",
+  "description": "学习并模拟实现koa2框架",
+  "main": "lib/application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytebomb/MiniKoa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bytebomb/MiniKoa/issues"
+  },
+  "homepage": "https://github.com/bytebomb/MiniKoa#readme"
+}
